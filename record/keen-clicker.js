@@ -12,7 +12,7 @@ $(function() {
 
   var data = {
     // define event properties here
-    name: "Guest",
+    name: "Ana",
     product: {
       name: "My Cool Product",
       id: "s3984023d984ds384092348",
